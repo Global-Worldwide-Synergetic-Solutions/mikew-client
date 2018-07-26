@@ -6,7 +6,7 @@ const MapFrame = styled.div`
     display: flex;
     justify-content: center; 
     align-items: center;
-    font-size: 1.5rem;
+
     line-height: 2rem;
 `
 
@@ -29,4 +29,5 @@ const Para = styled.p`
     color: grey;
     font-style: italic;
 `
+
 export { BodyText, Para, MapFrame, MainP, Label }

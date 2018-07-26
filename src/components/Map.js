@@ -29,7 +29,7 @@ class Map extends Component {
                         </Layer>
                     </Mapping>
                 </div>
-                <BodyText>
+                <BodyText className="Map--desc">
                     <MainP> All production appointments will be received at my home office. 
                     <br/>
                     My studio has everything needed to produce professional music. </ MainP>

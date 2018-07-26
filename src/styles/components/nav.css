@@ -7,6 +7,7 @@
     line-height: 4rem;
     background-color: var(--dark-grey);
     transition: 0.4s;
+    height: 12rem;
 }
 
 .testimonieLink{
@@ -42,4 +43,11 @@
     vertical-align: middle;
     text-decoration: none;
     color: var(--aqua-color);
+}
+
+
+@media screen and (max-width: 677px) {
+    .Nav{
+       height: 16rem;
+    }
 }
