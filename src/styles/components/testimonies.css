@@ -20,6 +20,7 @@
 .card {
     flex: 0 0 auto;
     color: white;
+    padding: 0.5rem;
     max-width: 35vw;
     height: 41vh;
     background-color: #282727;
